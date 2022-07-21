@@ -1,4 +1,4 @@
-The following are the outputs which will be stored in the output folder when 191ec260_191ec161_assignment2.ipynb is run for given input in the question.
+The following are the outputs which will be stored in the output folder when FM_partition.ipynb is run for given input in the question.
 
 
 You can also give other input files as txt files and on running output files will be stored as shown.
